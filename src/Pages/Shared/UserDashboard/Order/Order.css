@@ -1,0 +1,19 @@
+.pending{
+    width: 100px !important;
+    height: 35px;
+    background-color: rgba(236, 112, 112, 0.877);
+    color: red;
+    border-radius: 5px;
+    padding-top: 5px;
+    text-transform: capitalize;
+}
+
+.shipped{
+    width: 100px !important;
+    height: 35px;
+    background-color: rgb(104, 231, 104);
+    color: green;
+    border-radius: 5px;
+    padding-top: 5px;
+    text-transform: capitalize;
+}

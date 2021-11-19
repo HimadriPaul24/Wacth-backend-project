@@ -1,0 +1,7 @@
+.banner-btn{
+    color: white;
+}
+.banner-btn:hover{
+    background-color: black;
+    color: white;
+}

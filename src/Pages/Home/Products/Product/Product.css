@@ -1,0 +1,19 @@
+
+
+
+
+.product-img{
+    height: 240px;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+}
+
+.product-img:hover{
+    transform: scale(1.2);
+}
+
+.product-btn{
+    padding: 5px 20px;
+    font-size: 14px;
+    text-transform: uppercase;
+}

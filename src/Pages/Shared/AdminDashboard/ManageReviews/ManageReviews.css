@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+  .reviews-table {
+    width: 100%;
+  }
+  .reviews-table th {
+    font-size: 10px;
+  }
+  .reviews-table tr {
+    font-size: 10px;
+  }
+}

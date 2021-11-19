@@ -1,0 +1,50 @@
+.add-product-form{
+    margin: 30px 150px;
+}
+
+.add-product-form input{
+    display: block;
+    margin-top:10px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 300px; 
+}
+
+.add-product-form textarea{
+    width: 300px;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+   @media only screen and (max-width: 600px) {
+  .reviews-table {
+    width: 100%;
+  }
+  .reviews-table th {
+    font-size: 13px;
+  }
+  .reviews-table tr {
+    font-size: 13px;
+  }
+}
+
+.add-product-form{
+   margin: 10px 30px;
+}
+
+.add-product-form textarea{
+    width: 200px;
+    
+}
+.add-product-form input{
+    width: 200px; 
+}
+
+.message-box h2{
+    display: inline;
+}
+
+
+
+}
