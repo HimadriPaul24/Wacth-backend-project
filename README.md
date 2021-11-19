@@ -2,7 +2,7 @@
 
 ## Watch Of Switzerland
 
-Live Server link [Watch of Switzerland](https://niche-product-authentication.web.app).
+Live Server link [Watch of DIALZ](https://niche-product-authentication.web.app).
 
 # Description
 
